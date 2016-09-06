@@ -1,0 +1,21 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+jdk-apache-parent
+jdk-apache-resource-bundles
+jdk-doxia
+jdk-doxia-sitetools
+jdk-easymock3
+jdk-hamcrest
+jdk-junit4
+jdk-maven-compiler-plugin
+jdk-maven-jar-plugin
+jdk-maven-javadoc-plugin
+jdk-maven-parent
+jdk-maven-plugin-tools
+jdk-maven-remote-resources-plugin
+jdk-maven-resources-plugin
+jdk-maven-shared-incremental
+jdk-maven-site-plugin
+jdk-maven-source-plugin
+jdk-plexus-compiler
+jdk-surefire
